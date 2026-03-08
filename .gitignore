@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.env
+data/20_newsgroups/
+data/*.npy
+data/*.index
+.pytest_cache/
+*.egg-info/
+.idea/
+.vscode/
